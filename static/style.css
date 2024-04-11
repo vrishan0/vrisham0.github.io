@@ -19,13 +19,9 @@
     text-shadow: 10cap;
 }
 .end_info{
-    background-color: hsla(244, 81%, 75%, 0.966);
+    background-color: hsl(238.59deg 81% 75% / 96.6%);
     color:grey;
     text-shadow: 10;
     text-decoration: underline;
     -moz-text-blink: true;
-}
-.end_info:hover{
-    color:skyblue;
-    text-shadow: none;
 }
