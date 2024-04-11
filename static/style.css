@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(223, 196, 193);
+}
+
+.heading{
+    text-align: center;
+    background-color: hsla(204, 73%, 51%, 0.623);
+    text-overflow: none;
+    text-decoration: solid;
+    border: 10cm;
+    margin: 1;
+    text-decoration: solid;
+}
+
+.heading:hover{
+    color:rgb(204, 31, 31);
+    text-shadow: 10cap;
+}
